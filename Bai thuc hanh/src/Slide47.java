@@ -1,6 +1,7 @@
+import java.util.Scanner;
 
 
- public class tinhtong {
+ public class Slide47 {
     public static void main(String[] args) {
         int so, tong =0;
         Scanner sc = new Scanner(System.in);
@@ -11,6 +12,6 @@
         } while(tong < 100);
         System.out.println("tong cac so nguyen vua nhap :"+tong);
     }
-} {
+} 
     
-}
+

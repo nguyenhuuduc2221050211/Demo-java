@@ -1,4 +1,6 @@
-public class demngay {
+import java.util.Scanner;
+
+public class Slide40 {
     public static void main(String[] args) {
      Scanner sc= new Scanner(System.in);
      int ngay;

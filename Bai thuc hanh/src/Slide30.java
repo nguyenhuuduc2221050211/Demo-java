@@ -1,4 +1,6 @@
-public class tinhtong {
+import java.util.Scanner;
+
+public class Slide30 {
     public static void main(String[] args) {
         int sodu, tong = 0, n;
         Scanner sc = new Scanner(System.in);
@@ -11,4 +13,4 @@ public class tinhtong {
         }
      System.out.println("tong cac chu so = " + tong);
     }
-    
+}

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sonhonhat {
+public class Slide35 {
     
     public static void main(String[] args) {
     int a,b;
