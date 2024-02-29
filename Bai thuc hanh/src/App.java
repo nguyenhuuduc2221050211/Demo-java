@@ -1,5 +1,12 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        nhanVien nv = new nhanVien();
+        nv.nhaphoten ();
+        nv.nhapgioitinh();
+        nv.nhapchucvu();
+        nv.nhapnamsinh();
+        nv.tinhtuoi();
+        nv.inthongtin();
+    
     }
 }
